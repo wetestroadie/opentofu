@@ -1,0 +1,10 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: opentofu
+  annotations:
+    github.com/project-slug: wetestroadie/opentofu
+spec:
+  type: other
+  lifecycle: unknown
+  owner: wetestroadie/team-a
